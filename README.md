@@ -11,5 +11,5 @@ Mocha é um framework Javascript que roda em aplicações Node.js e no browser p
 - npm install -g mocha
 
 ### Instalaçao do Chai
-Chai e uma lib baseada em BDD/TDD para NodeJS e também para browser que pode ser combinada com qualquer Framework deve testes JavaScript
+Chai e uma lib baseada em BDD/TDD para NodeJS e também para browser que pode ser combinada com qualquer Framework de testes JavaScript
 - npm install -g chai
